@@ -1,5 +1,3 @@
-Names: Store the names of a few of your friends in a array called names. Print each person’s name by accessing each element in the list, one at a time.
-
 const friendsName :string[] = ["Tehreem","Afnan", "Mohsin Late", "Fareed"]
 console.log("1st Friend Name" +" "+ friendsName[0]);
 console.log("2nd Friend Name" +" "+ friendsName[1]);
