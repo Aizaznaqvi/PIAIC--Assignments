@@ -1,0 +1,7 @@
+Famous Quote: Find a quote from a famous person you admire. Print the quote and the name of its author. Your output should look something like the following, including the quotation marks:
+Albert Einstein once said, “A person who never made a mistake never tried anything new.”
+
+let author:string = "Zig Ziglar";
+let message:string= "once said"
+let quote:string="\"You don't have to be great to start, but you have to start to be great.\"";
+console.log(author +" "+ message+" "+quote)
